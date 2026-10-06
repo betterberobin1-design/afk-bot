@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Sigmaboy_6767",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ishanisgamerpro47089.aternos.me",
-    "port": 46252,
+    "ip": "AntiMealSMP.aternos.me",
+    "port": 12119,
     "version": "1.20.1",
     "try-creative": false
   },
