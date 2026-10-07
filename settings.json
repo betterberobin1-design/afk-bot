@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Sigmaboy_6767",
+    "username": "sigmawashere6767",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "AntiMealSMP.aternos.me",
     "port": 12119,
-    "version": "1.20.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "phiriphayarlover22"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Subscribe to lowkrobin!",
+        "yo bro lets go to mining!"
       ]
     },
     "chat-log": true,
